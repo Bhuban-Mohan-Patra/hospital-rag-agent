@@ -1,0 +1,13 @@
+Medical Knowledge Base
+
+Dengue:
+- Symptoms: high fever, headache, pain behind eyes, joint pain, rash.
+- Treatment: hydration, rest, paracetamol for fever. Avoid NSAIDs like ibuprofen.
+
+Diabetes:
+- Symptoms: frequent urination, excessive thirst, fatigue.
+- Management: insulin or oral medication, diet control, regular exercise.
+
+Hypertension:
+- Symptoms: often none, sometimes headache or dizziness.
+- Management: lifestyle changes, low-salt diet, medication if prescribed.

@@ -1,0 +1,15 @@
+Hospital Policy Knowledge Base
+
+Appointment Policy:
+- Patients must book appointments at least 24 hours in advance when possible.
+- Walk-ins are allowed depending on doctor availability.
+
+Cancellation Policy:
+- Appointments should be cancelled at least 12 hours before the scheduled time.
+
+Billing Policy:
+- Payments can be made via cash, card, or digital payment methods.
+- Insurance claims must be submitted with valid documents.
+
+Visitor Policy:
+- Only one attendant allowed per patient in ICU.
